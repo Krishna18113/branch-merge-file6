@@ -1,0 +1,4 @@
+This is my initial "text5.txt".
+"touch text5.txt"
+
+this is created after creating side branch for text 1, 2 & 3.

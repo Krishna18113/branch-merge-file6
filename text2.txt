@@ -1,2 +1,4 @@
 This is my initial "text2.txt".
 "touch text2.txt" 
+
+"This text is written side branch"

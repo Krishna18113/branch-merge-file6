@@ -1,0 +1,4 @@
+This is my initial "text1.txt".
+"touch text1.txt" 
+
+Use "git init" to initialize git.
